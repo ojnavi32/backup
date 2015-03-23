@@ -1,0 +1,183 @@
+1 : portal_entity_update() begins with class of Entity Type:Drupal\user\Entity\Role
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 4
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 5
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 6
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 4
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 5
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 6
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 7
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 8
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+2 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+3 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+4 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+5 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+6 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+7 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+8 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+9 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+10 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+11 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+12 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+13 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+14 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+15 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+16 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+17 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+18 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+19 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+20 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+21 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+22 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+23 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+24 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+25 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+26 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+27 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+28 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+29 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+30 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+31 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+32 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+33 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+34 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+35 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+36 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+37 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+38 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+39 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+40 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+41 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+42 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+43 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+44 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+45 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+46 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+47 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+48 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+49 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+50 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+51 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+52 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+53 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+54 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+55 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+56 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+57 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+58 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+59 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+60 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+61 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+62 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+63 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+64 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+65 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+66 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+67 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+68 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+69 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+70 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+71 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+72 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+73 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+74 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+75 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+76 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+77 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+78 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+79 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+80 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+81 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+82 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+83 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+84 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+85 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+86 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+87 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+88 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+89 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+90 : portal_entity_insert() begins with class of Entity Type:Drupal\migrate_drupal\Entity\Migration
+91 : portal_entity_update() begins with class of Entity Type:Drupal\user\Entity\Role
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 9
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 10
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 11
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 12
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+
+1 : portal_entity_insert() begins with class of Entity Type:Drupal\node\Entity\Node
+2 : s::post_insert() begins ... node id: 13
+3 : get_fid_of_first_image() begins ...
+4 : Array
+(
+)
+

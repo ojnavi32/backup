@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Home":"Bahay","Cancel":"Kanselahin","Save":"Pangalagaan","1 new comment\u0003@count new comments":"1 bagong puna\u0003@count bagong puna"}},"pluralFormula":{"0":0,"1":0,"default":1}};
